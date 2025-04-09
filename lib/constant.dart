@@ -11,3 +11,8 @@ const kTextDescription = Color(0xFF8C8C8C);
 const kColorHidden = Color(0xFF5E5454);
 const defaultFontFamily = 'Inter';
 const double kDefaultPadding = 20.0;
+
+
+///
+const String DARE_STRING = 'Dare';
+const String TRUTH_STRING = 'Truth';

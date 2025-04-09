@@ -1,0 +1,442 @@
+{
+  "Data": [
+    {
+      "id": 0,
+      "title": "Mới quen",
+      "dare": [
+        {
+          "id": 0,
+          "name": "Thực hiện 100 lần squat.",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Nhảy không nhạc trong 1 phút.",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Nói hai điều trung thực về những người khác trong nhóm",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Hát một bài hát yêu thích của bạn trước mọi người.",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Để người ở bên phải bạn dùng bút vẽ lên khuôn mặt của bạn.",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Bắt chước giọng nói của một người nổi tiếng.",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Gọi điện cho crush gần nhất và hát 1 đoạn cho họ nghe",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Nhắn tin cho một người bạn cũ và nói rằng bạn nhớ họ",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Tất cả mọi người hỏi 1 câu và bạn chỉ trả lời có.",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Làm một điệu nhảy TikTok phổ biến trước mọi người",
+          "is_delete": false
+        },
+        {
+          "id": 10,
+          "name": "Kể một câu chuyện cười trước mọi người",
+          "is_delete": false
+        }
+      ],
+      "truth": [
+        {
+          "id": 0,
+          "name": "Bí mật mà bạn chưa từng nói với ai?",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Điều gì bạn vui mừng mà mẹ bạn không biết về bạn?",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Kỷ niệm đáng nhớ nhất của bạn là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Bạn sẽ làm gì nếu bạn có thể trở thành người khác trong một ngày?",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Điều gì khiến bạn cảm thấy tự hào nhất về bản thân?",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Trong số tất cả những người trong phòng, ai là người bạn muốn kết bạn nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Ước mơ lớn nhất của bạn là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Điều gì khiến bạn cảm thấy hạnh phúc nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Khoảnh khắc đáng nhớ nhất trong tuổi thơ của bạn là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Nếu có thể thay đổi một điều về bản thân, bạn sẽ thay đổi điều gì?",
+          "is_delete": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Nghịch ngợm",
+      "dare": [
+        {
+          "id": 0,
+          "name": "Nhảy múa theo một bài hát do nhóm chọn.",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Tập plank trong một phút.",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Làm một video TikTok ngắn với người bên cạnh.",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Hát karaoke một bài hát không có nhạc.",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Đăng story Instagram với một tấm ảnh hài hước của bạn.",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Thực hiện một thử thách dance challenge nổi tiếng.",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Gọi điện cho một người bạn và nói chuyện bằng giọng hát.",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Bắt chước một nhân vật hoạt hình yêu thích.",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Tạo một video slow motion hài hước.",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Làm một màn biểu diễn lip-sync.",
+          "is_delete": false
+        }
+      ],
+      "truth": [
+        {
+          "id": 0,
+          "name": "Điều gì khiến bạn cảm thấy ngại ngùng nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Bạn đã từng làm điều gì khiến mình hối hận?",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Khoảnh khắc xấu hổ nhất của bạn là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Bạn có bí mật nào muốn chia sẻ không?",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Điều gì khiến bạn cảm thấy sợ hãi nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Bạn đã từng nói dối về điều gì quan trọng?",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Điều gì khiến bạn cảm thấy tự tin nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Bạn có crush với ai trong lớp/công ty không?",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Kỷ niệm đáng nhớ nhất với bạn bè là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Bạn đã từng thích thầm ai chưa?",
+          "is_delete": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tình bạn",
+      "dare": [
+        {
+          "id": 0,
+          "name": "Gọi cho người bạn thân nhất và nói lời cảm ơn.",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Đăng một tấm ảnh với người bạn thân nhất lên mạng xã hội.",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Nhắn tin cho 3 người bạn và nói điều bạn thích về họ.",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Tạo một video ngắn về kỷ niệm với bạn bè.",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Bịt mắt và nhận diện một người bạn trong nhóm bằng cách sờ mặt.",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Hát một bài hát về tình bạn.",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Tạo một bài thơ ngắn về người bạn bên cạnh.",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Kể một kỷ niệm vui với người bạn trong nhóm.",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Làm một điệu nhảy đôi với bạn thân.",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Chụp 3 kiểu ảnh sáng tạo với bạn bè.",
+          "is_delete": false
+        }
+      ],
+      "truth": [
+        {
+          "id": 0,
+          "name": "Ai là người bạn thân nhất của bạn và tại sao?",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Kỷ niệm đáng nhớ nhất với bạn thân là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Bạn đã từng giận bạn thân lâu nhất là bao lâu?",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Điều gì ở bạn thân khiến bạn thấy khó chịu nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Bạn nghĩ tình bạn của mình sẽ kéo dài bao lâu?",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Bạn đã từng nói xấu bạn thân chưa?",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Món quà ý nghĩa nhất bạn từng nhận từ bạn bè?",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Điều gì khiến bạn trân trọng tình bạn hiện tại?",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Bạn sẽ làm gì nếu bạn thân có bạn trai/gái mới?",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Bí mật nào của bạn thân mà bạn vẫn giữ kín?",
+          "is_delete": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Giải trí",
+      "dare": [
+        {
+          "id": 0,
+          "name": "Hát một bài hát đang viral trên TikTok.",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Nhảy theo một điệu nhạc K-pop nổi tiếng.",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Tạo một video transition thật ngầu.",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Diễn lại một cảnh phim nổi tiếng.",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Làm một video review đồ ăn hài hước.",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Tạo một video makeup transformation.",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Thực hiện một thử thách ảo thuật đơn giản.",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Hát một bài hát bằng giọng của người nổi tiếng.",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Tạo một video duet với một video có sẵn.",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Thực hiện một thử thách trend đang hot.",
+          "is_delete": false
+        }
+      ],
+      "truth": [
+        {
+          "id": 0,
+          "name": "Idol/nghệ sĩ nào truyền cảm hứng cho bạn nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 1,
+          "name": "Bộ phim/series yêu thích nhất của bạn là gì?",
+          "is_delete": false
+        },
+        {
+          "id": 2,
+          "name": "Thể loại nhạc nào bạn nghe nhiều nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 3,
+          "name": "Game mobile nào bạn chơi nhiều nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 4,
+          "name": "Kênh YouTube nào bạn xem thường xuyên nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 5,
+          "name": "Trend nào trên mạng xã hội khiến bạn thích thú nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 6,
+          "name": "Bạn đã từng gặp idol/nghệ sĩ nào chưa?",
+          "is_delete": false
+        },
+        {
+          "id": 7,
+          "name": "Bạn thường dành bao nhiêu thời gian cho mạng xã hội mỗi ngày?",
+          "is_delete": false
+        },
+        {
+          "id": 8,
+          "name": "Nội dung giải trí nào khiến bạn cười nhiều nhất?",
+          "is_delete": false
+        },
+        {
+          "id": 9,
+          "name": "Bạn có muốn trở thành một người nổi tiếng không? Tại sao?",
+          "is_delete": false
+        }
+      ]
+    }
+  ]
+}
+
